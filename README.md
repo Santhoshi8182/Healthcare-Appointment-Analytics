@@ -59,7 +59,8 @@ The analysis helps healthcare providers understand appointment attendance patter
 
 ## Power BI Dashboard
 
-![Healthcare Appointment Analytics Dashboard](dashboard.png)
+<img width="1321" height="741" alt="Screenshot 2026-10-13 145008" src="https://github.com/user-attachments/assets/08ef27fa-ed7c-4e05-adf4-f89d53c778e6" />
+
 ## Author
 Santhoshi
  
