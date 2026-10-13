@@ -56,6 +56,10 @@ The analysis helps healthcare providers understand appointment attendance patter
 - Explore interactive filters for demographics and appointment dates.
 - Investigate additional factors associated with missed appointments.
 
+
+## Power BI Dashboard
+
+![Healthcare Appointment Analytics Dashboard](dashboard.png)
 ## Author
 Santhoshi
  
